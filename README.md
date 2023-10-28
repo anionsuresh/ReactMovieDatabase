@@ -7,9 +7,9 @@
 * Getting data from api
 * Emojis
 * Routing in react
-* pagination, filtering, sorting ,searching features in your UI -> assignments
+* pagination, filtering, sorting ,searching features in your UI 
 * Local Storage
-* Hosting to netlify
+
 
 # setup
 
@@ -55,8 +55,7 @@
 * Basic Favourites Page UI
 * Link our page
 * Depolyment
-* ~~Local Storage -> Prevent loss of favourite movie~~
-* ~~Pagination,searching,sorting~~
+
 * Update Deployment
 
 
