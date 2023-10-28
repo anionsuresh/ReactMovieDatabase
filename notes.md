@@ -62,10 +62,7 @@
 
 # Todo
 
-[*] Setup the project
-  1. clone : https://github.com/Jasbir96/Live-React-Course-2023
-  2. go inside imdb 
-  3. npm install 
+ 
 [*] Static UI -> React and Tailwind.css
   * how to create tables with tailwind -> how to use some one else
 [*] UI Dynamic  
