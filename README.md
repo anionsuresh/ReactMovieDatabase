@@ -60,11 +60,4 @@
 
 
 
-# Todo
 
- 
-[*] Static UI -> React and Tailwind.css
-  * how to create tables with tailwind -> how to use some one else
-[*] UI Dynamic  
-* searching, pagination ,filtering ,sorting 
-* local storage 
