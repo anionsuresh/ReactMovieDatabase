@@ -1,6 +1,6 @@
 # React Movie Data Base 
 
-# Deployment Link - https://reactmoviedatabase-7ly0x1s2q-anions-projects.vercel.app/
+# Deployment Link - https://reactmoviedatabase.vercel.app/
 
 # Smaller clone of the IMDB built using TMDB-API built purely using React 
 
